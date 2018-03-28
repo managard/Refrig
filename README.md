@@ -1,2 +1,2 @@
 # Refrigde
-# Freezer
+# Freeze
